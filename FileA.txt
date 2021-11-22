@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is FileA - version 2"
+=======
+"This is FileA - version 1-Merge" 
+>>>>>>> feature
